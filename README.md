@@ -13,9 +13,9 @@ Using **Power Query** for data cleaning and transformation alongside **DAX** for
 ---
 
 ##  Dashboard Preview
-> 💡 *Replace `dashboard_preview.png` below with the exact file path of your uploaded screenshot in the repository.*
 
-![Blinkit Power BI Dashboard](dashboard_preview.png)
+
+<img src = "https://github.com/AbhishekDas945/Blinkit-Sales-Dashboard/blob/37eb1639734246c4602576700cb903bae03c5a15/Screenshot%202026-11-03%20191549.png" alt = "" width = "1000">
 
 ---
 
