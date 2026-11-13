@@ -15,7 +15,7 @@ Using **Power Query** for data cleaning and transformation alongside **DAX** for
 ##  Dashboard Preview
 
 
-<img src = "https://github.com/AbhishekDas945/Blinkit-Sales-Dashboard/blob/37eb1639734246c4602576700cb903bae03c5a15/Screenshot%202026-11-03%20191549.png" alt = "" width = "1000">
+<img src = "https://github.com/AbhishekDas945/Blinkit-Sales-Dashboard/blob/37eb1639734246c4602576700cb903bae03c5a15/Screenshot%202026-11-03%20191549.png" alt = "Blinkit Sales Performance Analysis" width = "1000">
 
 ---
 
